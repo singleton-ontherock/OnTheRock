@@ -218,6 +218,18 @@ backend
 │   │   └── resources
 
 ```
+
+### ERD 및 아키텍처
+
+| ERD (SQL)     | ERD (NoSQL)    |
+| ------------- | -------------- |
+| <img src="https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/ERD_SQL.png" width="400"> | <img src="https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/ERD_NoSQL.png" width="400"> |
+
+| Architecture #1 | Architecture #2 |
+| ---------------- | ---------------- |
+| <img src="https://via.placeholder.com/400x300?text=Architecture+1" width="400"> | <img src="https://via.placeholder.com/400x300?text=Architecture+2" width="400"> |
+
+
 </div>
 </details>
 
