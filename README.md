@@ -255,7 +255,7 @@ frontend
 
 | Home       | Alarm      | Login      | Logout     |
 | ---------- | ---------- | ---------- | ---------- |
-| ![image]() | ![image]() | ![image]() | ![image]() |
+| ![Home](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%BE%E1%84%92%E1%85%A9%E1%86%B7.gif) | ![image]() | ![image]() | ![image]() |
 |            | 홈         | 알람       | 로그아웃   |
 
 
