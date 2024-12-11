@@ -253,11 +253,15 @@ frontend
 
 ## 주요 화면
 
-| Home       | Alarm      | Login      | Logout     |
+| 홈 화면       | 알림 화면      | 스트리밍 화면      | 영상 분석 화면     |
 | ---------- | ---------- | ---------- | ---------- |
-| ![Home](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%BE%E1%84%92%E1%85%A9%E1%86%B7.gif) | ![image]() | ![image]() | ![image]() |
-|            | 홈         | 알람       | 로그아웃   |
-
+| ![Home](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%86%E1%85%B5%E1%86%BE%E1%84%92%E1%85%A9%E1%86%B7.gif) | ![Alarm](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B7%E1%84%8E%E1%85%A1%E1%86%BC.gif)| ![Streaming](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC%E1%84%8E%E1%85%A1%E1%86%BC.gif)| ![Analyze](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.gif) |
+| 네이버 로그인과 인기 영상 확인  | 받은 알림 확인  | 스트리밍 시작 및 종료 | 클라이밍 영상 분석 |
+ 
+| 업로드 화면     | 검색창(장소 검색)     | 검색창(사용자 검색)    | 마이 페이지  |
+| ---------- | ---------- | ---------- | ---------- |
+| ![Upload](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%E1%84%8E%E1%85%A1%E1%86%BC.gif) | ![Search](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A1%E1%86%BC_%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1.gif)| ![Search](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A1%E1%86%BC_%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9.gif)| ![Mypage](https://github.com/singleton-ontherock/OnTheRock/blob/main/docs/%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.gif) |
+| 영상 업로드  | 클라이밍장 검색 | 사용자 검색 | 내 정보 페이지 |
 
 ---
 
