@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-size: 30px;">
 🏆 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트 🏆
 </div>
 
