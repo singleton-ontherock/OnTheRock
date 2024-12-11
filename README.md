@@ -21,13 +21,22 @@
 - 🗓️ 프로젝트 기간: 2024년 7월 8일 - 2024년 8월 16일 (6주)
 - 팀원 구성: 백엔드 3명(김수빈, 이찬민, 조승기), 프론트엔드 3명(김광현, 임예원, 정해준)
 
+## 👩🏻‍💻팀원
+
+|                                                                               김광현                                                                               |                                                                               김수빈                                                                               |                                                                               이찬민                                                                               |                                                                              정해준                                                                              |                                                                               임예원                                                                               |                                                                               조승기                                                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                            <img src="https://avatars.githubusercontent.com/u/?v=4" width=150>                                             |                                            <img src="https://avatars.githubusercontent.com/u1qns?v=4" width=150>                                             |                                            <img src="https://avatars.githubusercontent.com/chanmin97?v=4" width=150>                                            |                                           <img src="https://avatars.githubusercontent.com/u/?v=4" width=150>                                           |                                           <img src="https://avatars.githubusercontent.com/lyw000312?v=4" width=150>                                           |                                           <img src="https://avatars.githubusercontent.com/seungki-cho?v=4" width=150>                                            |
+|                                        **김광현**                                        | <a href="https://github.com/u1qns"><img alt="Github" src="https://img.shields.io/badge/@u1qns-181717?&logo=github&logoColor=white&style=round-square"></a> | <a href="https://github.com/chanmin97"><img alt="Github" src="https://img.shields.io/badge/@chanmin97-181717?&logo=github&logoColor=white&style=round-square"></a> |                                  **정해준**                                  | <a href="https://github.com/lyw000312"><img alt="Github" src="https://img.shields.io/badge/@lyw000312-181717?&logo=github&logoColor=white&style=round-square"></a> | <a href="https://github.com/seungki-cho"><img alt="Github" src="https://img.shields.io/badge/@seungki--cho-181717?&logo=github&logoColor=white&style=round-square"></a> |
+|                                                                           **프론트엔드**                                                                           |                                                                     **팀장 및 발표자**,</br> **백엔드**                                                                      |                                                                          **백엔드**                                                                         |                                                                          **백엔드**                                                                          |                                                                          **프론트엔드**                                                                          |                                                                      **백엔드**                                                                    |
+
+---
 
 
 ## 🗂️ 프로젝트 구성도
 
 <details>
 <summary style="font-size: 18px;">
-<h3>👩🏻‍💻 백엔드</h3>
+<h3>📂 백엔드</h3>
 </summary>
 <div markdown="1">
 
@@ -58,7 +67,7 @@ backend
 │   │   │   │           ├── application
 │   │   │   │           ├── common
 │   │   │   │           ├── config
-│   │   │   │           ├── 📂 domain
+│   │   │   │           ├── domain
 │   │   │   │           ├── dto
 │   │   │   │           └── presentation
 │   │   └── resources
@@ -152,7 +161,7 @@ backend
 
 <details>
 <summary>
-<h3>👩🏻‍💻 프론트엔드</h3>
+<h3>📂 프론트엔드</h3>
 </summary>
 <div markdown="1">
 
