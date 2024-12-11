@@ -1,4 +1,6 @@
-# 🏆 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트 🏆
+<div align="center">
+🏆 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트 🏆
+</div>
 
 <div align="center">
 <h2> 🧗‍♂️ OnTheRock 🧗‍♂️ </h2>
