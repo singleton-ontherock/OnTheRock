@@ -1,5 +1,5 @@
-<div align="center" style="font-size: 30px; color: white; background-color: #8090bf">
-🏆 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트 🏆
+<div align="center">
+<h1>🏆 삼성 청년 SW 아카데미 11기 공통 우수 프로젝트 🏆</h1>
 </div>
 
 <div align="center">
@@ -34,9 +34,11 @@
 
 <details>
 <summary style="font-size: 18px;">
-👩🏻‍💻 백엔드
+<h3>👩🏻‍💻 백엔드</h3>
 </summary>
 <div markdown="1">
+
+```
 backend
 ├── auth
 │ ├── gradle
@@ -233,14 +235,17 @@ backend
 ├── application
 ├── domain
 └── presentation
-
-</div>
+```
+    </div>
 </details>
 
 <details>
-<summary style="font-size: 18px;">
-👩🏻‍💻 프론트엔드
+<summary>
+<h3>👩🏻‍💻 프론트엔드</h3>
 </summary>
+<div markdown="1">
+
+```
 frontend
 └── on-the-rock-app
     └── src
@@ -260,6 +265,8 @@ frontend
         │       └── UserProfile
         ├── css
         └── store
+```
+</div>
 </details>
 
 ## 주요 화면
